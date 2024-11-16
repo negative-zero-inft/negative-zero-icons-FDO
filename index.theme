@@ -1,5 +1,20 @@
 [Icon Theme]
 Name=Negative_Zero_Icons
-Comment=By_Blade0
+Comment=official Negative Zero icon pack 
 Inherits=nz_icons
-Directories=32x32/apps
+Directories=32x32/apps,512x512/apps
+Inherits=Adwaita
+
+[512x512/apps]
+Context=Applications
+size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+Context=Applications
+size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
