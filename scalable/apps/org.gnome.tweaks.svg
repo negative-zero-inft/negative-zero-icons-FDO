@@ -1,0 +1,36 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="36" height="36" rx="15" fill="#131313"/>
+<g clip-path="url(#clip0_24_281)">
+<path d="M27 24V24C27 25.6569 25.6569 27 24 27V27C22.3431 27 21 25.6569 21 24V12C21 10.3431 22.3431 9 24 9V9C25.6569 9 27 10.3431 27 12V12C27 13.6569 25.6569 15 24 15H12C10.3431 15 9 13.6569 9 12V12C9 10.3431 10.3431 9 12 9V9C13.6569 9 15 10.3431 15 12V24C15 25.6569 13.6569 27 12 27V27C10.3431 27 9 25.6569 9 24V24C9 22.3431 10.3431 21 12 21H24C25.6569 21 27 22.3431 27 24Z" stroke="url(#paint0_linear_24_281)" stroke-width="2"/>
+<path d="M27 24V24C27 25.6569 25.6569 27 24 27V27C22.3431 27 21 25.6569 21 24V12C21 10.3431 22.3431 9 24 9V9C25.6569 9 27 10.3431 27 12V12C27 13.6569 25.6569 15 24 15H12C10.3431 15 9 13.6569 9 12V12C9 10.3431 10.3431 9 12 9V9C13.6569 9 15 10.3431 15 12V24C15 25.6569 13.6569 27 12 27V27C10.3431 27 9 25.6569 9 24V24C9 22.3431 10.3431 21 12 21H24C25.6569 21 27 22.3431 27 24Z" stroke="url(#paint1_radial_24_281)" stroke-width="2"/>
+<path d="M27 24V24C27 25.6569 25.6569 27 24 27V27C22.3431 27 21 25.6569 21 24V12C21 10.3431 22.3431 9 24 9V9C25.6569 9 27 10.3431 27 12V12C27 13.6569 25.6569 15 24 15H12C10.3431 15 9 13.6569 9 12V12C9 10.3431 10.3431 9 12 9V9C13.6569 9 15 10.3431 15 12V24C15 25.6569 13.6569 27 12 27V27C10.3431 27 9 25.6569 9 24V24C9 22.3431 10.3431 21 12 21H24C25.6569 21 27 22.3431 27 24Z" stroke="url(#paint2_radial_24_281)" stroke-width="2"/>
+<path d="M27 24V24C27 25.6569 25.6569 27 24 27V27C22.3431 27 21 25.6569 21 24V12C21 10.3431 22.3431 9 24 9V9C25.6569 9 27 10.3431 27 12V12C27 13.6569 25.6569 15 24 15H12C10.3431 15 9 13.6569 9 12V12C9 10.3431 10.3431 9 12 9V9C13.6569 9 15 10.3431 15 12V24C15 25.6569 13.6569 27 12 27V27C10.3431 27 9 25.6569 9 24V24C9 22.3431 10.3431 21 12 21H24C25.6569 21 27 22.3431 27 24Z" stroke="url(#paint3_radial_24_281)" stroke-width="2"/>
+<path d="M27 24V24C27 25.6569 25.6569 27 24 27V27C22.3431 27 21 25.6569 21 24V12C21 10.3431 22.3431 9 24 9V9C25.6569 9 27 10.3431 27 12V12C27 13.6569 25.6569 15 24 15H12C10.3431 15 9 13.6569 9 12V12C9 10.3431 10.3431 9 12 9V9C13.6569 9 15 10.3431 15 12V24C15 25.6569 13.6569 27 12 27V27C10.3431 27 9 25.6569 9 24V24C9 22.3431 10.3431 21 12 21H24C25.6569 21 27 22.3431 27 24Z" stroke="url(#paint4_radial_24_281)" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_24_281" x1="9" y1="9" x2="30.351" y2="21.0746" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF47AA"/>
+<stop offset="0.495" stop-color="#FCFF5E"/>
+<stop offset="1" stop-color="#FF7222"/>
+</linearGradient>
+<radialGradient id="paint1_radial_24_281" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.7931 11.6379) rotate(46.757) scale(17.8933)">
+<stop stop-color="#FFA800"/>
+<stop offset="1" stop-color="#FEA800" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_24_281" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.9483 25.2931) rotate(-47.7591) scale(18.2352)">
+<stop stop-color="#FFAE63"/>
+<stop offset="1" stop-color="#FFA06A" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint3_radial_24_281" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23.8966 24.0517) rotate(-135.352) scale(17.8853)">
+<stop stop-color="#FFEB81"/>
+<stop offset="1" stop-color="#FFC188" stop-opacity="0.015"/>
+</radialGradient>
+<radialGradient id="paint4_radial_24_281" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23.8966 11.7931) rotate(134.284) scale(17.5571)">
+<stop stop-color="#FF6C63"/>
+<stop offset="1" stop-color="#FF736A" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_24_281">
+<rect width="20" height="20" fill="white" transform="translate(8 8)"/>
+</clipPath>
+</defs>
+</svg>

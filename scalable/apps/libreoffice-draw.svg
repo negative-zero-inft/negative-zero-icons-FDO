@@ -1,0 +1,37 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="36" height="36" rx="15" fill="url(#paint0_angular_24_301)"/>
+<g clip-path="url(#clip0_24_301)">
+<g filter="url(#filter0_b_24_301)">
+<rect x="14" y="14" width="14" height="14" rx="4" fill="#CCCCCC" fill-opacity="0.7"/>
+</g>
+<g filter="url(#filter1_b_24_301)">
+<rect x="8" y="8" width="14" height="14" rx="4" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_24_301" x="4" y="4" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_24_301"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_24_301" result="shape"/>
+</filter>
+<filter id="filter1_b_24_301" x="-3" y="-3" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_24_301"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_24_301" result="shape"/>
+</filter>
+<radialGradient id="paint0_angular_24_301" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(18 18) rotate(90) scale(18)">
+<stop stop-color="#E11919"/>
+<stop offset="0.161458" stop-color="#FFC700"/>
+<stop offset="0.328125" stop-color="#8FFF00"/>
+<stop offset="0.46875" stop-color="#00FFD1"/>
+<stop offset="0.619792" stop-color="#00C2FF"/>
+<stop offset="0.786458" stop-color="#3500FF"/>
+<stop offset="1" stop-color="#E11919"/>
+</radialGradient>
+<clipPath id="clip0_24_301">
+<rect width="20" height="20" fill="white" transform="translate(8 8)"/>
+</clipPath>
+</defs>
+</svg>
