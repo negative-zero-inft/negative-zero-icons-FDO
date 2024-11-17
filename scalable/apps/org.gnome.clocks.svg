@@ -1,12 +1,1 @@
-<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="36" height="36" rx="15" fill="#D27E00"/>
-<g clip-path="url(#clip0_24_3062)">
-<path d="M28 18C28 23.52 23.52 28 18 28C12.48 28 8 23.52 8 18C8 12.48 12.48 8 18 8C23.52 8 28 12.48 28 18Z" fill="white"/>
-<path d="M21.6743 20.2034L18.9714 18.5825C18.6172 18.3701 18.4401 18.2639 18.3114 18.1176C18.1976 17.9882 18.1117 17.8366 18.0593 17.6724C18 17.4869 18 17.2804 18 16.8673V13.2589" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<defs>
-<clipPath id="clip0_24_3062">
-<rect width="20" height="20" fill="white" transform="translate(8 8)"/>
-</clipPath>
-</defs>
-</svg>
+Time.svg
