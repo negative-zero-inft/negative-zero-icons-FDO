@@ -1,6 +1,6 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_570)">
-<rect width="36" height="36" rx="15" fill="#FF3434"/>
+<rect width="36" height="36" rx="10" fill="#FF3434"/>
 <g filter="url(#filter0_d_24_570)">
 <rect y="17" width="2" height="2" rx="1" fill="white"/>
 </g>
@@ -134,7 +134,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_570" result="shape"/>
 </filter>
 <clipPath id="clip0_24_570">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>

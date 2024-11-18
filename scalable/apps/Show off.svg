@@ -1,6 +1,6 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_3036)">
-<rect width="36" height="36" rx="15" fill="url(#paint0_radial_24_3036)"/>
+<rect width="36" height="36" rx="10" fill="url(#paint0_radial_24_3036)"/>
 <g filter="url(#filter0_d_24_3036)">
 <rect x="8" y="8" width="20" height="16" rx="4" fill="#FFD6E9"/>
 <rect x="8.9375" y="8.9375" width="18.125" height="14.125" rx="3.0625" stroke="#FFD6E9" stroke-width="1.875"/>
@@ -35,7 +35,7 @@
 <stop offset="1" stop-color="#8E049A"/>
 </radialGradient>
 <clipPath id="clip0_24_3036">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>

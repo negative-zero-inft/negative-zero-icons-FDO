@@ -1,6 +1,6 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_3128)">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 <g filter="url(#filter0_f_24_3128)">
 <path d="M18.0003 28C20.7003 28 22.964 27.1045 24.6185 25.5773L21.3867 23.0682C20.4912 23.6682 19.3458 24.0227 18.0003 24.0227C15.3958 24.0227 13.1912 22.2636 12.4049 19.9H9.06396V22.4909C10.7094 25.7591 14.0912 28 18.0003 28Z" fill="#34A853" fill-opacity="0.1"/>
 </g>
@@ -80,7 +80,7 @@
 <feGaussianBlur stdDeviation="3.06818" result="effect1_foregroundBlur_24_3128"/>
 </filter>
 <clipPath id="clip0_24_3128">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>

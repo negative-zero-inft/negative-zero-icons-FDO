@@ -1,5 +1,5 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="36" height="36" rx="15" fill="#019833"/>
+<rect width="36" height="36" rx="10" fill="#019833"/>
 <path d="M19.1 9.00369C18.5376 8.44129 17.6258 8.44129 17.0634 9.00369L9.06772 16.9999C8.50541 17.5623 8.50541 18.474 9.06772 19.0363L17.0272 26.9963C17.5895 27.5587 18.5013 27.5587 19.0637 26.9963L27.0594 19.0001C27.6217 18.4377 27.6217 17.526 27.0594 16.9637L19.1 9.00369Z" stroke="white" stroke-width="1.88"/>
 <mask id="path-3-outside-1_24_194" maskUnits="userSpaceOnUse" x="8.29517" y="7.85846" width="21" height="20" fill="black">
 <rect fill="white" x="8.29517" y="7.85846" width="21" height="20"/>

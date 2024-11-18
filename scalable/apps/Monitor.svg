@@ -1,6 +1,6 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_539)">
-<rect width="36" height="36" rx="15" fill="#262626"/>
+<rect width="36" height="36" rx="10" fill="#262626"/>
 <g opacity="0.236" filter="url(#filter0_d_24_539)">
 <path d="M-0.722168 20H10.198C10.6005 20 10.8017 20 10.9744 19.9339C11.1269 19.8755 11.2628 19.7806 11.3702 19.6576C11.4918 19.5183 11.5612 19.3294 11.6999 18.9516L13.5659 13.8711C14.2011 12.1416 14.5187 11.2769 14.8995 11.1039C15.2277 10.9547 15.6108 10.9937 15.9021 11.206C16.2401 11.4523 16.3768 12.3633 16.6501 14.1854L17.9305 22.7214C18.1684 24.3074 18.2873 25.1003 18.6079 25.3461C18.8847 25.5584 19.2522 25.611 19.5775 25.4851C19.9541 25.3392 20.291 24.6116 20.9647 23.1563L21.9964 20.9278C22.1521 20.5916 22.2299 20.4236 22.3504 20.3005C22.4569 20.1916 22.5869 20.1086 22.7304 20.0576C22.8927 20 23.078 20 23.4484 20L36.7223 20" stroke="#FFE100" stroke-width="2" stroke-miterlimit="10" shape-rendering="crispEdges"/>
 </g>
@@ -30,7 +30,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_24_539" result="shape"/>
 </filter>
 <clipPath id="clip0_24_539">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>

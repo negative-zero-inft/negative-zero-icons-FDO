@@ -1,7 +1,7 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_521)">
-<rect width="36" height="36" rx="15" fill="#3EA9F5"/>
-<rect width="36" height="36" rx="15" fill="black" fill-opacity="0.8"/>
+<rect width="36" height="36" rx="10" fill="#3EA9F5"/>
+<rect width="36" height="36" rx="10" fill="black" fill-opacity="0.8"/>
 <g filter="url(#filter0_d_24_521)">
 <path d="M14.9998 26.5C13.1396 25.9544 11.8125 25.8554 10.1908 25.1595C8.90732 24.6087 7.45628 23.7923 6.68778 23.0237C6.22115 22.557 5.7691 21.7479 6.06758 21.1388C6.29706 20.6706 7.18873 20.1625 8.06992 19.9128C9.22646 19.585 11.0889 19.4152 12.2601 19.3965C14.0914 19.3671 16.0664 19.5596 17.7274 19.773C19.2308 19.9661 21.7402 20.4176 23.2285 20.6427C23.8613 20.7384 26.2488 21.0985 27.1762 21.0865C28.0084 21.0757 28.436 20.821 28.3809 20.4309C28.2787 19.707 27.1171 18.6234 26.5005 18.1235C24.9587 16.8736 22.9663 15.7207 21.1931 14.5615C19.6649 13.5624 17.935 12.4778 16.7993 11.3272C16.427 10.95 15.9523 10.3402 16.1872 9.82283C16.231 9.72625 16.4981 9.60564 16.711 9.5879C16.7689 9.58307 16.9327 9.61382 17.0052 9.61805" stroke="url(#paint0_radial_24_521)" stroke-opacity="0.75" stroke-width="2.16" stroke-linecap="round" shape-rendering="crispEdges"/>
 </g>
@@ -48,7 +48,7 @@
 <stop offset="1" stop-color="#FF9900"/>
 </radialGradient>
 <clipPath id="clip0_24_521">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>

@@ -1,6 +1,6 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_24_120)">
-<rect width="36" height="36" rx="15" fill="#5B7FFF"/>
+<rect width="36" height="36" rx="10" fill="#5B7FFF"/>
 <g filter="url(#filter0_d_24_120)">
 <rect x="8" y="8" width="8" height="8" rx="4" fill="white"/>
 </g>
@@ -23,7 +23,7 @@
 <stop offset="1" stop-color="#BFCCFE"/>
 </linearGradient>
 <clipPath id="clip0_24_120">
-<rect width="36" height="36" rx="15" fill="white"/>
+<rect width="36" height="36" rx="10" fill="white"/>
 </clipPath>
 </defs>
 </svg>
