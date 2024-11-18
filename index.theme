@@ -1,7 +1,6 @@
 [Icon Theme]
 Name=Negative_Zero_Icons
 Comment=official Negative Zero icon pack 
-Inherits=nz_icons
 Directories=32x32/apps,512x512/apps
 Inherits=Adwaita
 
