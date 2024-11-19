@@ -5,7 +5,8 @@ readme coming soon
 mkdir .icons
 cd .icons
 git clone https://github.com/negative-zero-inft/negative-zero-icons-FDO
+gsettings set org.gnome.desktop.interface icon-theme 'negative-zero-icons-FDO' # gnome only most of the time
 ```
-use your system settings (or on gnome, gnome-tweaks) to apply it
+not on gnome? use your system settings to apply it (or terminal)
 
 *✨ enjoy ✨*
