@@ -1,8 +1,7 @@
 [Icon Theme]
 Name=Negative_Zero_Icons
 Comment=official Negative Zero icon pack 
-Directories=32x32/apps,512x512/apps
-Inherits=Adwaita
+Directories=32x32/apps,512x512/apps,16x16/legacy,scalable/legacy,symbolic/status
 
 [512x512/apps]
 Context=Applications
@@ -14,6 +13,27 @@ Type=Scalable
 [scalable/apps]
 Context=Applications
 size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+Context=Applications
+size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/legacy]
+Context=Legacy
+size=24
+MinSize=8
+MaxSize=48
+Type=Scalable
+
+[symbolic/status]
+Context=Status
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
